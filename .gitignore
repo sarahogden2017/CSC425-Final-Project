@@ -2,3 +2,7 @@ data/
 data.zip
 dataset_split/
 dataset_split.zip
+.vscode/
+data*
+dataset_quick/*
+
